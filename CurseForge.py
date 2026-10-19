@@ -1,7 +1,7 @@
 import requests
 header = {
   'Accept': 'application/json',
-  'x-api-key': 'insert_api_key'
+  'x-api-key': 'insert_api_key' #Insert your keyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy
 }
 url = "https://api.curseforge.com/v1/mods/"
 Table = {}
