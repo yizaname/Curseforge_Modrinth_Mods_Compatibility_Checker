@@ -52,6 +52,7 @@ while True:
     elif method == "check":
         print(check())
 
+
 #Hi
 
 
